@@ -3,7 +3,7 @@ import json
 import time
 from kafka import KafkaProducer
 
-API_KEY = "HBXF3GYY9TBNTVH7"
+API_KEY = "****************"
 TOPIC = "stock_data"
 
 # Create Kafka Producer
